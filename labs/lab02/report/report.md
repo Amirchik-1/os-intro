@@ -129,7 +129,7 @@ header-includes:
  
  
 
-![ настраиваем католог курса ](image/6.png){#fig:007 width=70%}
+![ настраиваем католог курса ](image/6.png){#fig:007 width=70/%}
 
 
 
