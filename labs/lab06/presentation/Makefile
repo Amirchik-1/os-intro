@@ -25,4 +25,3 @@ all: $(FILES)
 clean:
 	-@rm $(FILES) *~
 
-cleanall: clean
